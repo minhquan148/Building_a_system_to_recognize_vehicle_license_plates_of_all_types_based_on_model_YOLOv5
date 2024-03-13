@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>51.jpg</filename>
+	<path>C:\Users\QuanTran\OneDrive\Desktop\images\51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>257</width>
+		<height>196</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car number plates</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>144</ymin>
+			<xmax>162</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>
